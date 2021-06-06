@@ -1,3 +1,3 @@
-# Java Clean Project
+## Description
 
-This is a template for Java based demo projects.
+This is a template for Java-based demo projects.
